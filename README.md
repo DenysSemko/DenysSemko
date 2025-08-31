@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20There%20👋%20I'm%20Denys%20Semko%20👨‍💻&width=960&height=100)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hello%20and%20Welcome!%20👋%20I'm%20Denys%20Semko%20👨‍💻&width=960&height=100)](https://github.com/Akshay090/svg-banners)
 
 <h3 align="center">I'm a Senior Software Engineer 💻!</h3>
 <hr>
