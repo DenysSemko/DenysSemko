@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Python, GCP**
 
-- 💬 I always develop my skills in **.NET, MSSQL/PostgreSQL/MongoDb/Redis, AWS, Architectures, Terraform, Testing**
+- 💬 I always develop my skills in **.NET, SQL/NoSQL databases, AWS, Architectures & Patterns**
 
 - 👨‍💻 In case you want to get detailed information [about me](https://denys-semko.netlify.app/)
 
