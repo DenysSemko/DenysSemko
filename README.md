@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **.NET projects**
 
-- 🌱 I’m currently learning **AWS, Azure, React.js, GoLang**
+- 🌱 I’m currently learning **Kotlin, Python, GCP**
 
-- 💬 I always develop my skills in **C#, SQL, MongoDb, ASP.NET Core, React.js**
+- 💬 I always develop my skills in **.NET, MSSQL/PostgreSQL/MongoDb/Redis, AWS, Architectures, Terraform, Testing**
 
 - 👨‍💻 In case you want to get detailed information [about me](https://denys-semko.netlify.app/)
 
