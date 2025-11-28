@@ -35,7 +35,7 @@
 
 </div>
 
-## 🌐 Connect with Me
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/denys-semko"><img src="https://img.shields.io/badge/LinkedIn-1E90FF?logo=linkedin&logoColor=white&style=for-the-badge"></a>
