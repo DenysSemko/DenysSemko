@@ -3,21 +3,42 @@
 <h3 align="center">I'm a Senior Software Engineer 💻!</h3>
 <hr>
 
-- 🔭 I’m currently working on **.NET projects**
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240"/>
 
-- 🌱 I’m currently learning **Kotlin, Python, GCP**
+### 🚀 What I Do
 
-- 💬 I always develop my skills in **.NET, SQL/NoSQL databases, AWS, Architectures & Patterns**
+- Develop scalable **.NET services and backend** components
+- Create **well-structured APIs** and service integrations
+- Apply **clean architecture** and **best engineering practices**
+- Work with **AWS cloud-native** infrastructure
+- Improve performance, reliability, and maintainability of applications 
 
-- 👨‍💻 In case you want to get detailed information [about me](https://denys-semko.netlify.app/)
+<hr>
 
-- 📄 Interesting fact **Google’s first tweet was in 2009, and it was in binary. It reads, "I’m feeling lucky".**
+### 🛠 Tech Arsenal
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/denys-semko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/denys-semko" height="30" width="40" /></a>
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,aws,sqlserver,postgres,mysql,mongodb,redis,rabbitmq,kotlin,terraform,docker,git" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denyssemko&show_icons=true&locale=en&layout=compact" alt="denyssemko" /></p>
+<hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=denyssemko&label=Profile%20views&color=0e75b6&style=flat" alt="denyssemko" /> </p>
+### 📊 GitHub Power Stats
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denyssemko&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=denyssemko&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=denyssemko&theme=tokyonight&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=denyssemko&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=denyssemko&theme=tokyonight)
+
+</div>
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/denys-semko"><img src="https://img.shields.io/badge/LinkedIn-1E90FF?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="mailto:denys.semko.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="https://medium.com/@dench327"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge"></a>
+</p>
